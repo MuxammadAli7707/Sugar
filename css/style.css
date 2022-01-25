@@ -13,3 +13,31 @@ body {
   flex-direction: column;
 }
 
+.sugar__heading {
+  font-weight: 600;
+  font-size: 44.2px;
+  line-height: 49px;
+  width: 349px;
+  color: #150101;
+  margin-bottom: 16px;
+}
+
+.sugar_desc {
+  font-size: 16px;
+  line-height: 24px;
+  width: 442px;
+  color: #150101;
+  opacity: 0.6;
+  margin-bottom: 35px;
+}
+
+.sugar__btn {
+  background: #D64374;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  padding: 15px 41px;
+  color: #FAFAFA;
+  border: none;
+}
