@@ -435,3 +435,174 @@ body {
 .app {
   padding-bottom: 150px;
 }
+
+.question__box {
+  padding-top: 191px;
+  padding-bottom: 130px;
+}
+
+.question__title {
+  width: 522px;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  color: #000000;
+}
+
+.question__form {
+  display: flex;
+  align-items: center;
+  margin-top: 28px;
+  width: 637px;
+  background-color: #fafafa;
+  border-radius: 5px;
+}
+
+.question__input {
+  background: none;
+  border: none;
+  width: 82%;
+  padding: 30px;
+  padding-left: 30px;
+}
+
+.question__input::placeholder {
+  font-size: 14px;
+  line-height: 16px;
+  color: #0F0000;
+  opacity: 0.6;
+}
+.question__input:focus {
+  outline: none;
+}
+
+.question__btn {
+  display: inline-block;
+  padding: 28px 41px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  color: #fff;
+  border: none;
+  background-color: #d64374;
+  border-radius: 5px;
+}
+
+#footer {
+  background-color: #000;
+}
+
+.footer__box {
+  padding-top: 70px;
+  padding-bottom: 100px;
+}
+
+.footer__logo {
+  margin-bottom: 9px;
+}
+
+.footer__text {
+  font-size: 12px;
+  line-height: 17px;
+  letter-spacing: 0.01em;
+  color: #fff;
+  opacity: 0.7;
+  width: 207px;
+  margin-bottom: 25px;
+}
+
+.social-list {
+  list-style: none;
+}
+
+.social-title {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.social__item:not(:last-child) {
+  margin-right: 10px;
+}
+
+.footer__list {
+  list-style: none;
+}
+
+.footer__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.footer__link {
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 14px;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.footer__link--active {
+  font-size: 12px;
+  line-height: 14px;
+  color: #fff;
+}
+
+.email__title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;  
+  color: #fff;
+}
+
+.footer__form {
+  display: flex;
+  align-items: center;
+  margin-top: 13px;
+  margin-bottom: 15px;
+  border: 2px solid #d64374;
+  border-radius: 5px;
+  width: 388px;
+  height: 55px;
+}
+
+.email {
+  width: 100%;
+  box-sizing: border-box;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  background: none;
+  border: none;
+  padding: 20px 0;
+  padding-left: 32px;
+  color: #fff;
+}
+
+.email:focus {
+  outline: none;
+}
+
+::placeholder {
+  font-size: 14px;
+  line-height: 16px;
+  color: #fff;
+  opacity: 0.6;
+}
+
+.email__btn {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  color: #fff;
+  padding: 16px 18px;
+  background: #D23166;
+  border-radius: 5px;
+  border: none;
+}
+.pay__list {
+  list-style: none;
+}
+
+.pay__item:not(:last-child) {
+  margin-right: 15px;
+}
