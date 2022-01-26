@@ -101,6 +101,9 @@ body {
   width: 523px;
 }
 
+.hero__img {
+  object-fit: cover;
+}
 .card__list {
   padding: 100px 0;
   list-style: none;
