@@ -15,7 +15,6 @@ body {
   display: flex;
   flex-direction: column;
   font-family: 'Roboto', sans-serif;
-  /* font-family: 'Hind Madurai', sans-serif; */
 }
 
 .site__header {
@@ -100,12 +99,6 @@ body {
   opacity: 0.6;
   margin-bottom: 50px;
   width: 523px;
-}
-
-.hero__imgs {
-  background-image: url(../img/eep88j2SDJ-removebg-preview\ 1.png);
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .card__list {
